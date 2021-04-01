@@ -14,10 +14,12 @@ I follow the philosophy of a life-long learner and will give my best effort to a
 ![](https://img.shields.io/static/v1?label=Code&message=Python&color=ff69b4) ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=ff69b4) <br />
 ![](https://img.shields.io/static/v1?label=DB&message=MySQL&color=success) ![](https://img.shields.io/static/v1?label=DB&message=MariaDB&color=success) <br />
 ![](https://img.shields.io/static/v1?label=Tools&message=ReactJS&color=blueviolet) ![](https://img.shields.io/static/v1?label=Tools&message=Django&color=blueviolet) ![](https://img.shields.io/static/v1?label=Tools&message=Pandas&color=blueviolet) <br />
-![](https://img.shields.io/static/v1?label=Platform&message=Appian&color=important)
+![](https://img.shields.io/static/v1?label=Platform&message=Appian&color=important) <br />
 
-
+### :chart_with_upwards_trend:	Some Statics :chart_with_upwards_trend:	
 [![](https://github-readme-stats.vercel.app/api?username=vivianintech&count_private=true&show_icons=true&theme=synthwave)](https://github.com/vivianintech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivianintech&hide=html,css&theme=synthwave)](https://github.com/vivianintech/github-readme-stats)
+
 
 
 ### :ribbon: Connect with me :ribbon: <br />
