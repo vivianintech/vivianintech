@@ -1,4 +1,4 @@
-# Hello friends! :raising_hand_woman:
+# Hello World! :raising_hand_woman:
 My name is Vivian. I am a full stack developer living in Brisbane, Australia <br />
 I follow the philosophy of a life-long learner and will give my best effort to achieve my goal <br />
 
