@@ -5,7 +5,7 @@ I follow the philosophy of a <strong>life-long learner</strong> as I want to be 
 ### :cherry_blossom: Something About Me :cherry_blossom: <br />
 :desktop_computer: I wrote my first line of code in 2019 and fell in love with coding since then<br />
 :white_check_mark: I am a full-stack developer. However I do have preference of back-end over front-end :stuck_out_tongue:<br />
-:smile_cat: I am cat mom. My cat's name is Noodle and he is a Ragdoll<br />
+![meow-queen](https://user-images.githubusercontent.com/36681929/124338535-deff4180-dbeb-11eb-8275-3a15fd1f47c9.png) I am cat mom. My cat's name is Noodle and he is a Ragdoll<br />
 :four_leaf_clover: I am a succulent farmer<br />
 :books: I organise TechReads bookclub here in Brisbane<br />
 
