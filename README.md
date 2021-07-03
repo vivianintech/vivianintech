@@ -10,9 +10,9 @@ I follow the philosophy of a <strong>life-long learner</strong> as I want to be 
 :books: I organise TechReads bookclub here in Brisbane<br />
 
 ### :hammer_and_wrench: Technologies and Tools :hammer_and_wrench:
-![](https://img.shields.io/static/v1?label=Code&message=Python&color=ff69b4)   ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=ff69b4)   ![](https://img.shields.io/static/v1?label=Code&message=PHP&color=ff69b4) <br />
+![](https://img.shields.io/static/v1?label=Code&message=Python&color=ff69b4) ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=ff69b4) ![](https://img.shields.io/static/v1?label=Code&message=PHP&color=ff69b4) ![](https://img.shields.io/static/v1?label=Code&message=TypeScript&color=ff69b4)<br />
 ![](https://img.shields.io/static/v1?label=DB&message=MySQL&color=success) ![](https://img.shields.io/static/v1?label=DB&message=MariaDB&color=success) <br />
-![](https://img.shields.io/static/v1?label=Tools&message=ReactJS&color=blueviolet) ![](https://img.shields.io/static/v1?label=Tools&message=Django&color=blueviolet) ![](https://img.shields.io/static/v1?label=Tools&message=Pandas&color=blueviolet) <br />
+![](https://img.shields.io/static/v1?label=Tools&message=ReactJS&color=blueviolet) ![](https://img.shields.io/static/v1?label=Tools&message=Django&color=blueviolet) ![](https://img.shields.io/static/v1?label=Tools&message=Pandas&color=blueviolet) ![](https://img.shields.io/static/v1?label=Tools&message=GitHub&color=blueviolet)![](https://img.shields.io/static/v1?label=Tools&message=GitLab&color=blueviolet)<br />
 ![](https://img.shields.io/static/v1?label=Platform&message=Appian&color=important) <br />
 
 ### :chart_with_upwards_trend:	Some Statics :chart_with_upwards_trend:	
