@@ -1,4 +1,4 @@
-# Hello World! :raising_hand_woman:
+# https://emoj.ml/ablobattentionreverse.gifHello World!
 My name is Vivian. I am a full-stack developer living in Brisbane, Australia<br />
 I follow the philosophy of a <strong>life-long learner</strong> as I want to be <strong>a better version of myself everyday</strong><br />
 
