@@ -23,8 +23,5 @@ I follow the philosophy of a <strong>life-long learner</strong> as I want to be 
 
 ### :ribbon: Connect with me :ribbon: <br />
 <a href="https://www.linkedin.com/in/vivianqut/">
-<img border="0" alt="vivianintech" src="https://user-images.githubusercontent.com/36681929/124338969-22f34600-dbee-11eb-9a52-fd820e019f60.png
-" width="30" height="30">
-<img border="0" alt="vivianintech" src="https://user-images.githubusercontent.com/36681929/113225276-91172c80-92d0-11eb-92f8-6f7d6e631ce6.png" width="30" height="30">
-<img border="0" alt="vivianintech" src="https://user-images.githubusercontent.com/36681929/113225364-cc196000-92d0-11eb-92e2-6b5906bead01.jpg" width="30" height="30">
+<img border="0" alt="vivianintech" src="https://user-images.githubusercontent.com/36681929/124339042-9eed8e00-dbee-11eb-873f-b49e5b1795d5.png" width="30" height="30">
 </a>
