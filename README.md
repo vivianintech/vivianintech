@@ -1,14 +1,13 @@
 # Hello World! :raising_hand_woman:
-My name is Vivian. I am a full stack developer living in Brisbane, Australia <br />
-I follow the philosophy of a life-long learner and will give my best effort to achieve my goal <br />
+My name is Vivian. I am a full-stack developer living in Brisbane, Australia<br />
+I follow the philosophy of a <strong>life-long learner</strong> as I want to be <strong>a better version of myself everyday</strong><br />
 
-### :cherry_blossom: Something about me :cherry_blossom: <br />
-:desktop_computer: I love coding <br />
-:white_check_mark: I love solving some algorithms too <br />
-:open_book: I am a life-long learner <br />
-:smile_cat: I am mom to a Ragdoll cat <br />
-:four_leaf_clover: I have a succulent garden <br />
-:books: I organise TechReads bookclub here in Brisbane <br />
+### :cherry_blossom: Something About Me :cherry_blossom: <br />
+:desktop_computer: I wrote my first line of code in 2019 and fell in love with coding since then<br />
+:white_check_mark: I am a full-stack developer. However I do have preference of back-end over front-end :stuck_out_tongue:<br />
+:smile_cat: I am cat mom. My cat's name is Noodle and he is a Ragdoll<br />
+:four_leaf_clover: I am a succulent farmer<br />
+:books: I organise TechReads bookclub here in Brisbane<br />
 
 ### :hammer_and_wrench: Technologies and Tools :hammer_and_wrench:
 ![](https://img.shields.io/static/v1?label=Code&message=Python&color=ff69b4) ![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=ff69b4) <br />
