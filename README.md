@@ -2,6 +2,8 @@
 My name is Vivian. I am a full-stack developer living in Brisbane, Australia<br />
 I follow the philosophy of a <strong>life-long learner</strong> as I want to be <strong>a better version of myself everyday</strong><br />
 
+#
+
 ### :cherry_blossom: Something About Me :cherry_blossom: <br />
 :desktop_computer: I wrote my first line of code in 2019 and fell in love with coding since then<br />
 :white_check_mark: I am a full-stack developer. However I do have preference of back-end over front-end :stuck_out_tongue:<br />
