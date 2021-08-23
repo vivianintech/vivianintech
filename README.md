@@ -1,6 +1,6 @@
 # ![shiblob-photo](https://user-images.githubusercontent.com/36681929/124338565-fccca680-dbeb-11eb-88aa-852dc1ada0ab.png) Hello World!
-My name is Vivian. I am a Software Engineer living in Brisbane, Australia<br />
-I follow the philosophy of a <strong>life-long learner</strong> as I want to be a better version of myself everyday<br />
+My name is Vivian. I am a Software Engineer in Brisbane, Australia<br />
+I'm a life-long learner and will always stay curious about knowledge<br />
 
 #
 
