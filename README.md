@@ -1,8 +1,8 @@
 # ![shiblob-photo](https://user-images.githubusercontent.com/36681929/124338565-fccca680-dbeb-11eb-88aa-852dc1ada0ab.png) Hello World!
 My name is Vivian. I am a Software Engineer in Brisbane, Australia<br />
 I'm a life-long learner. My career goal is to become an excellent software engineer<br />
-As a woman who came from non-technical background, I strongly support people especially women, who are passionate in tech, to find their ways to this industry<br />
-It is because I understand the challenges that ones have to face with when trying land the first developer job or learning the first line of code<br />
+As a woman who came from non-technical background, I strongly support people especially women, who are passionate in tech, to find their ways into this industry<br />
+It is because I understand the challenges that ones have to face with when trying to land the first developer job or learning the first line of code<br />
 
 #
 
