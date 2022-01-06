@@ -7,11 +7,9 @@ It is because I understand the challenges that ones have to face with when tryin
 #
 
 ### :cherry_blossom: Something About Me :cherry_blossom: <br />
-:desktop_computer: I wrote my first line of code in 2019 and quickly found this my greatest passion<br />
-:white_check_mark: I am a full-stack developer. However I do have preference of back-end over front-end :stuck_out_tongue:<br />
-:smile_cat: I am cat mom. My cat's name is Noodle and he is a Ragdoll<br />
-:four_leaf_clover: I am a succulent farmer<br />
-:books: I organise TechReads bookclub here in Brisbane<br />
+:desktop_computer: I wrote my first line of code in 2019 and quickly found this my passion and decided to pursuit software development career<br />
+:white_check_mark: I am working toward a full-stack developer and I do prefer back-end development<br />
+:smile_cat: I have a Ragdoll cat. His name is Noodle. And he is a wonderful, bubbly cat<br />
 
 #
 
