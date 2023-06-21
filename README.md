@@ -1,8 +1,10 @@
 # ![shiblob-photo](https://user-images.githubusercontent.com/36681929/124338565-fccca680-dbeb-11eb-88aa-852dc1ada0ab.png) Hello World!
-My name is Vivian. I am a Software Engineer in Brisbane, Australia<br />
-I'm a life-long learner. My career goal is to become an excellent software engineer<br />
-As a woman who came from non-technical background, I strongly support people especially women, who are passionate in tech, to find their ways into this industry<br />
-It is because I understand the challenges that ones have to face with when trying to land the first developer job or learning the first line of code<br />
+Hi, I'm Vivian, a TypeScript enthusiast based in sunny Brisbane.<br />
+I have a genuine passion for software development, with a particular love for working on the back end of applications. TypeScript is my go-to language, as its expressive and type-safe nature brings joy to my coding journey.<br />
+But it's not all about code for me! When I'm not immersed in the world of software, you'll find me experimenting in the kitchen. Believe it or not, I've discovered a newfound love for cooking!<br />
+Oh, and did I mention my adorable feline companion? Meet Noodle, my lovely cat. He keeps me company while I work, always finding a cozy spot on my desk. Having him around brings an extra dose of happiness to my coding session.<br />
+My coding adventure began in 2019, without a computer science degree. I embraced the challenge and completed the SheCodes coding bootcamp, equipping myself with practical skills and a solid foundation in web development.<br />
+Join me on this exciting journey as we dive into the world of TypeScript and create amazing software together!<br />
 
 #
 
