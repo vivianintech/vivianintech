@@ -1,5 +1,5 @@
 # ![shiblob-photo](https://user-images.githubusercontent.com/36681929/124338565-fccca680-dbeb-11eb-88aa-852dc1ada0ab.png) Hello World!
-:cherry_blossom: Hi, I'm Vivian, a TypeScript enthusiast based in sunny Brisbane.<br /><br />
+:cherry_blossom: Hi, I'm Vivian, a TypeScript enthusiast and Back-end Software Developer based in sunny Brisbane.<br /><br />
 
 :computer: I have a genuine passion for software development, with a particular love for working on the back end of applications. TypeScript is my go-to language, as its expressive and type-safe nature brings joy to my coding journey.<br /><br />
 
