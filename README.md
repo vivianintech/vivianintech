@@ -28,6 +28,6 @@
 #
 
 ### :ribbon: Connect with me :ribbon: <br />
-<a href="https://www.linkedin.com/in/vivianqut/">
+<a href="https://www.linkedin.com/in/vivianintech/">
 <img border="0" alt="vivianintech" src="https://user-images.githubusercontent.com/36681929/124339042-9eed8e00-dbee-11eb-873f-b49e5b1795d5.png" width="auto" height="50">
 </a>
